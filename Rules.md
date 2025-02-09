@@ -41,5 +41,5 @@
 5. No False Reports | 1d ban | Do not report players unless there is evidence to support that they did something violating the rules.
 6. No Lag Machines | 1d ban | Any deliberate attempt to crash or slow down the server will result in a ban.
 > [!CAUTION]
-> Excessive use of benign machines that create lag will be considered a deliberate attempt to cause it.
+> Excessive use of benign machines that create lag will be considered a deliberate attempt to cause it.\
 > Continued use of benign machines that have been deemed and warned by Ayaan to cause lag will be considered a deliberate attempt to cause it.
