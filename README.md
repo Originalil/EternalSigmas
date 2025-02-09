@@ -1,5 +1,9 @@
 # GAME UPDATES
-Any currently live events or future updates will be shown here.
+Towers of fortune Event:
+Play in 3 rounds of towers of fortune where every 15 seconds you recive and item. Eliminate the rest to win the prize.
+Prize: Have three re-rolls from a random item you get. Chose one of three.
+
+
 ## Currently
 Final changes and edits
 ## Future
