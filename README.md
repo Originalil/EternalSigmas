@@ -1,6 +1,6 @@
 # GAME UPDATES
 Any currently live events or future updates will be shown here.
 ## Currently
-Poll for adding slimefun 4 [here](https://take.supersurvey.com/poll5403046x00c44296-161)
+Final changes and edits
 ## Future
-None for now!
+**_RELEASE DATE:_** in 6 days on Friday, February 14, 2024 aka Valentines Day
