@@ -1,12 +1,12 @@
 # V0 (Pre-release):
 ### Features
 - Day Counter
-- Dungeons and Taverns
 - Enchanted Golden Apple Craft
 - Player Health Indicator
 - Simple Damage Indicator
 ### Plugin updates
 - Mysterious Midnights
+- Dungeons and Taverns
 - Incendium
 - Nullscape
 - Terralith
