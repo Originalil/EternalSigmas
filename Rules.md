@@ -32,7 +32,7 @@
 > These rules are **always** active.
 > Not understanding rules is **_NOT_** an excuse, you are expected to either ask for clarification or google definitions of words.
 > If clarification is asked for but not given, this can be used as evidence to justify your behavior.
-1. No Griefing bases | 7d ban | Do not destroy or modify others' structures without permission.
+1. No Griefing FARMS | 7d ban | Do not destroy or modify others' FARMS without permission.
 2. No Hacking or Cheats | PERM Ban | No hacked clients, X-ray, auto-clickers, or anything that gives an unfair advantage.
 3. Seed cracking | PERM ban | Do not seed crack for whatever reason, the server is mostly seed proofed, meaning you can't use chunk base to find structures.
 4. No Exploits or Duping | 2d ban | Do not use glitches to duplicate items or bypass game mechanics.
