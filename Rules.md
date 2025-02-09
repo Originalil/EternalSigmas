@@ -24,7 +24,7 @@
 2. No Hacking or Cheats | PERM Ban | No hacked clients, X-ray, auto-clickers, or anything that gives an unfair advantage.
 3. Seed cracking | PERM ban | Do not seed crack for whatever reason, the server is mostly seed proofed, meaning you can't use chunk base to find structures.
 4. No Exploits or Duping | 2d ban | Do not use glitches to duplicate items or bypass game mechanics.
-> [!NOTE]
+> [!TIPS]
 > Exceptions are limited to string (and any craftable item from purely string), TNT, and kelp.
 5. No False Reports | 1d ban | Do not report players if you KNOW or unsure they did something violating the rules
 6. No Lag Machines | 1d ban | Any deliberate attempt to crash or slow down the server will result in a ban.
