@@ -1,3 +1,6 @@
+> [!WARNING]
+> These rules are final.
+> Trying to circumvent a punishment by hacking or exploiting loopholes is **NOT** permitted, provided there was a clear intention to evade punishment.
 # General Rules
 1. No Griefing bases I 7d ban – Do not destroy or modify others builds without permission.
 2. No Unfair PvP – I 3d ban No combat logging, or spawn killing.
