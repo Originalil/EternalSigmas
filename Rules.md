@@ -4,7 +4,9 @@
 # Definitions
 *Clear intention* - Explicit stating of an intent to perform action in question or a clearly conscious decision (impossible to explain that it was an accident).\
 *Reasonable* - Explainable with logic and evidence.\
+*Significant* - Anything more than 20% of what was in question.
 *Significant structures* - Any player-built structure that took more than 30 minutes to build and was built in a reasonable amount of time.\
+*Trolling or joking* - Any action that does not do significant damage to players or significant structures.
 *Unfair advantage* - A condition, not by default available for everyone, that facilitates gameplay for one or a group of players.\
 *Unprovoked* - No prior attacks since the previous respawn of the player in question.
 # General Rules
