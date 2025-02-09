@@ -1,4 +1,5 @@
 > [!WARNING]
+> Any decisions will be made based on the assumption that you have read everything below.
 > The say of Ayaan is final, his decisions may only be vetoed by 7 or more players in a vote.\
 > Trying to circumvent a punishment by hacking or exploiting loopholes is **NOT** permitted, provided there was a clear intention to evade punishment.
 # Definitions
@@ -6,6 +7,7 @@
 *Clear intention* - Explicit stating of an intent to perform action in question or a clearly conscious decision (impossible to explain that it was an accident).\
 *Construction* - Player-made entity**(in the dictionary definition not the minecraft one)** consisting mostly of blocks.\
 *e.g.* - "For example"\
+*Excessive* - An action performed to a degree that is unnecessary and marginally beneficial to the user.\
 *Evidence* - Any objective material (e.g. links, photos, words) that clearly or can be attributed to a claim. Subjective material is not considered.\ 
 *i.e.* - "That is"; refers **only** to what was mentioned\
 *Machine* - Player-made contruction that performs a function.\
@@ -17,6 +19,7 @@
 *Subjective* - Anything purely or largely based on personal opinion (i.e. saying "[person name] said that...", "it feels suspicious that..." {or similar terms}, or "I think that...")\
 *Trolling or joking* - Any action that does not do significant damage to players or significant structures.\
 *Unfair advantage* - A condition, not by default available for everyone, that facilitates gameplay for one or a group of players.\
+*Unnecessary* - Something with a high <ins>opportunity cost</ins> compared to other things that could be done.\
 *Unprovoked* - No prior attacks since the previous respawn of the player in question.
 # General Rules
 1. No Griefing bases | 7d ban | Do not destroy or modify others' structures without permission.
@@ -39,3 +42,4 @@
 6. No Lag Machines | 1d ban | Any deliberate attempt to crash or slow down the server will result in a ban.
 > [!CAUTION]
 > Excessive use of benign machines that create lag will be considered a deliberate attempt to cause it.
+> Continued use of benign machines that have been deemed and warned by Ayaan to cause lag will be considered a deliberate attempt to cause it.
