@@ -26,7 +26,7 @@
 4. No Exploits or Duping | 2d ban | Do not use glitches to duplicate items or bypass game mechanics.
 > [!TIPS]
 > Exceptions are limited to string (and any craftable item from purely string), TNT, and kelp.
-5. No False Reports | 1d ban | Do not report players if you KNOW or unsure they did something violating the rules
+5. No False Reports | 1d ban | Do not report players if you KNOW with proof they did something violating the rules
 6. No Lag Machines | 1d ban | Any deliberate attempt to crash or slow down the server will result in a ban.
 > [!CAUTION]
 > Excessive use of benign machines that create lag will be considered a deliberate attempt to cause it.
