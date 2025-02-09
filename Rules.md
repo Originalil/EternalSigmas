@@ -11,7 +11,7 @@
 1. No Griefing bases | 7d ban | Do not destroy or modify others builds without permission.
 2. No Unfair PvP | 3d ban | No combat logging, or unprovoked spawn killing.
 3. No Alt Accounts for Advantages | 3d ban | One account per player
-4. No leaking cords | 4d | Do not leak coords of significant structures to other people, neither trade them unless they are explicitly stated to be your teammate.
+4. No leaking cords | 4d ban | Do not leak coords of significant structures to other people, neither trade them unless they are explicitly stated to be your teammate.
 5. No stealing | 5d ban | Do not steal your teammates loot (Unless it’s for trolling or allowed) and other people.
 # Protected Rules
 > [!IMPORTANT]
@@ -21,5 +21,5 @@
 3. No Exploits or Duping | 2d ban | Do not use glitches to duplicate items or bypass game mechanics.
 > [!NOTE]
 > Exceptions are limited to string (and any craftable item from purely string), TNT, and kelp.
-4. No False Reports | 1d | Do not report players if you KNOW or unsure they did something violating the rules
-5. No Lag Machines | 1d | Any attempt to crash or slow down the server will result in a ban.
+4. No False Reports | 1d ban | Do not report players if you KNOW or unsure they did something violating the rules
+5. No Lag Machines | 1d ban | Any attempt to crash or slow down the server will result in a ban.
