@@ -15,7 +15,7 @@
 5. No stealing | 5d ban | Do not steal your teammates loot (Unless it’s for trolling or allowed) and other people.
 # Protected Rules
 > [!IMPORTANT]
-> These rules are active **always** active.
+> These rules are **always** active.
 1. No Hacking or Cheats | PERM Ban | No hacked clients, X-ray, auto-clickers, or anything that gives an unfair advantage.
 2. Seed cracking | PERM ban | Do not seed crack for whatever reason, the server is mostly seed proofed, meaning you can't use chunk base to find structures.
 3. No Exploits or Duping | 2d ban | Do not use glitches to duplicate items or bypass game mechanics.
