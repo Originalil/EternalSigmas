@@ -1,4 +1,4 @@
-# V1:
+# V0 (Pre-release):
 ### Features
 - Day Counter
 - Dungeons and Taverns
@@ -10,3 +10,6 @@
 - Incendium
 - Nullscape
 - Terralith
+## V0.1 (Pre-release final check):
+### Plugin updates
+- After the vote, Slimefun 4 was added
