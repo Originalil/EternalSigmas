@@ -2,10 +2,10 @@
 > The say of Ayaan is final, his decisions may only be vetoed by 7 or more players in a vote.
 > Trying to circumvent a punishment by hacking or exploiting loopholes is **NOT** permitted, provided there was a clear intention to evade punishment.
 # Definitions
-*Clear intention* - Explicit stating of an intent to perform action in question or a clearly conscious decision (impossible to explain that it was an accident).
-*Reasonable* - Explainable with logic and evidence.
-*Significant structures* - Any player-built structure that took more than 30 minutes to build and was built in a reasonable amount of time.
-*Unfair advantage* - A condition, not by default available for everyone, that facilitates gameplay for one or a group of players.
+*Clear intention* - Explicit stating of an intent to perform action in question or a clearly conscious decision (impossible to explain that it was an accident).\
+*Reasonable* - Explainable with logic and evidence.\
+*Significant structures* - Any player-built structure that took more than 30 minutes to build and was built in a reasonable amount of time.\
+*Unfair advantage* - A condition, not by default available for everyone, that facilitates gameplay for one or a group of players.\
 *Unprovoked* - No prior attacks since the previous respawn of the player in question.
 # General Rules
 1. No Griefing bases | 7d ban | Do not destroy or modify others builds without permission.
