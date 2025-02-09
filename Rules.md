@@ -1,6 +1,6 @@
 > [!WARNING]
 > Any decisions will be made based on the assumption that you have read everything below.
-> The say of Ayaan is final, his decisions may only be vetoed by 7 or more players in a vote.\
+> The say of Ayaan is final, his decisions may only be vetoed by 5 or more players in a vote.\
 > Trying to circumvent a punishment by hacking or exploiting loopholes is **NOT** permitted, provided there was a clear intention to evade punishment.
 # Definitions
 *Benign* - Harmless; not used in a reckless manner\
