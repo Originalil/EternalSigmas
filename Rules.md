@@ -4,9 +4,11 @@
 # Definitions
 *Benign* - Harmless; not used in a reckless manner\
 *Clear intention* - Explicit stating of an intent to perform action in question or a clearly conscious decision (impossible to explain that it was an accident).\
+*Construction* - Player-made entity**(in the dictionary definition not the minecraft one)** consisting mostly of blocks.\
 *e.g.* - "For example"\
 *Evidence* - Any objective material (e.g. links, photos, words) that clearly or can be attributed to a claim. Subjective material is not considered.\ 
 *i.e.* - "That is"; refers **only** to what was mentioned\
+*Machine* - Player-made contruction that performs a function.\
 *Objective* - Any facts highly unlikely to be influenced by personal opinion\
 *Others'* - Anything that was obtained by someone else, or was contributed to at least 30% by someone, is at the discretion of Ayaan.\
 *Reasonable* - Explainable with logic and evidence.\
