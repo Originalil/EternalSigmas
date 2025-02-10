@@ -1,6 +1,6 @@
 # GAME UPDATES
 Towers of Fortune Event:\
-Play in 3 rounds of towers of fortune where every 15 seconds you recieve an item. Eliminate the other players to win the prize.
+Play in 3 rounds of towers of fortune where every 15 seconds you recieve an item. Eliminate the other players to win the prize.\
 Prize: Have three re-rolls from a random item you get. Choose one of three.
 
 
