@@ -1,7 +1,7 @@
 
 # Teams Tutorial
 
-##Summary
+## Summary
 In the left middle slot, place a wooden sword
 In the middle slot place a dye of your choice (except white)
 This lets you join a team.
