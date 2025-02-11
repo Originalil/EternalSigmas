@@ -3,7 +3,7 @@
 - Jeremy (GiftedBasicBee1)
 - Jack (Jackattack0406)
 ## Team 2 ()
-- Ayaan ()
+- Ayaan (originalil)
 - Mike
 ## Team 3 (Literally Jeff)
 - Jeff (fleeding)
