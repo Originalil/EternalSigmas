@@ -2,8 +2,9 @@
 - Terrence (Cosmology101)
 - Jeremy (GiftedBasicBee1)
 - Jack (Jackattack0406)
+- Mike ()
 ## Team 2 ()
 - Ayaan (originalil)
-- Mike
+- Michael (CookerLlama)
 ## Team 3 (Literally Jeff)
 - Jeff (fleeding)
