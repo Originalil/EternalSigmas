@@ -6,7 +6,6 @@
 ## Team 2 ()
 - Ayaan (originalil)
 - Michael (CookerLlama)
-- Mike ()
 - Quinn (detectiveyeti)
 
 
@@ -19,6 +18,9 @@
 ## Team 5 ()
 - Andrew (Fireball41221)
 - Jack ()
+
+## Undecided
+- Mike
 
 
 
