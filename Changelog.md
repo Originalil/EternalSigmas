@@ -5,7 +5,7 @@
 - Player Health Indicator
 - Simple Damage Indicator
 ### Plugin updates
-- Mysterious Midnights
+- Lunar Events
 - Dungeons and Taverns
 - Incendium
 - Nullscape
