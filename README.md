@@ -7,7 +7,7 @@ Play in 3 rounds of towers of fortune where every 15 seconds you recieve an item
 ## Currently
 Final changes and edits
 ## Future
-**_RELEASE DATE:_** in 2 days on Friday, February 14, 2025 AKA Valentine's day\
+**_RELEASE DATE:_** in 1 day on Thursday, February 13, 2025\
 This will be a grace period (With a small world border and no pvp)\
 **_FULL OPENING DATE:_** in 3 days on Saturday February 15, 2025\
 This will officially begin the server (15k world border) and enable pvp.
