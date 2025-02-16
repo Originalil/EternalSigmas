@@ -28,7 +28,7 @@
 2. No Unfair PvP | 3d ban | No combat logging, or unprovoked spawn killing.
 3. No Alt Accounts for Advantages | 3d ban | One account per player
 4. No leaking cords | 4d ban | Do not leak coords of significant structures to other people, neither trade them unless they are explicitly stated to be your teammate.
-5. No stealing | 5d ban | Do not steal your teammates loot (Unless it’s for trolling or allowed) and other people.
+5. No stealing | 3d ban | Do not steal your teammates loot (Unless it’s for trolling or allowed) and other people.
 # Protected Rules
 > [!IMPORTANT]
 > These rules are **always** active.
@@ -45,3 +45,6 @@
 > [!CAUTION]
 > Excessive use of benign machines that create lag will be considered a deliberate attempt to cause it.\
 > Continued use of benign machines that have been deemed and warned by Ayaan to cause lag will be considered a deliberate attempt to cause it.
+7. No use of other clients | 4d ban | Other clients/mods usage
+ex.  replay mod for unintended uses [i.e tracking players]
+8. Power-Abuse | 3d ban |If overuse of given trusted power by the owner is used for unintended purpose.
