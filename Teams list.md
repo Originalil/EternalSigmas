@@ -11,16 +11,16 @@
 
 ## Team 3 (Literally Jeff)
 - Jeff (fleeding)
+- Kevin (_Wee)
 
 ## Team 4 ()
-- Emirham (Specialdudeidkhisuser)
+- Emirham (ChadMan1234)
 
 ## Team 5 ()
 - Andrew (Fireball41221)
-- Jack ()
 
 ## Undecided
-- Mike
+- Mike (HaloHunterr)
 
 
 
