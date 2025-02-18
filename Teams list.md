@@ -2,7 +2,6 @@
 - Terrence (Cosmology101)
 - Jeremy (GiftedBasicBee1)
 - Jack (Attackjack0406)
-- Mike (HaloHunterrr)
 - Richard (Badminton_guy)
 
 ## Team 2 (Skibidi Ohio Rizzlers)
@@ -16,11 +15,12 @@
 - Jeff (fleeding)
 - Kevin (_Wee)
 
-## Team 5 (Random)
+## Team 4 (Random)
 - Andrew (Fireball41221)
 
-## Undecided
-- Porgy (C____)
+## Team 5 (Chesskid irl)
+- Mike (HaloHunterrr)
+- Porgy (Cpqx)
 
 
 
