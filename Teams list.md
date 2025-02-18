@@ -1,12 +1,13 @@
 ## Team 1 (Sea pickle cool kids)
 - Terrence (Cosmology101)
 - Jeremy (GiftedBasicBee1)
-- Jack (Jackattack0406)
+- Jack (Attackjack0406)
 
 ## Team 2 (Skibidi Ohio Rizzlers)
 - Ayaan (originalil)
 - Michael (CookerLlama)
 - Quinn (detectiveyeti)
+- Liam (Liam_Riley)
 
 
 ## Team 3 (Jeff and Kevin)
@@ -21,6 +22,7 @@
 
 ## Undecided
 - Mike (HaloHunterr)
+- Porgy (C____)
 
 
 
