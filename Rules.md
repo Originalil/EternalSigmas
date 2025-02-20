@@ -47,4 +47,6 @@
 > Continued use of benign machines that have been deemed and warned by Ayaan to cause lag will be considered a deliberate attempt to cause it.
 7. No use of other clients | 4d ban | Other clients/mods usage
 ex. replay mod for unintended uses [i.e tracking players]
-8. Power-Abuse | 3d ban |If overuse of given trusted power by the owner is used for unintended purpose.
+8. Power-Abuse | 3d ban | If overuse of given trusted power by the owner is used for unintended purpose.
+9. Use of other farms | 12h | If you use a farm that is not yours without permission then ban lol
+
