@@ -10,6 +10,7 @@
 - Quinn (detectiveyeti)
 - Liam (Liam_Riley)
 - Emirham (Chadman)
+- Robert (DarkFlameX54)
 
 ## Team 3 (Jeff and Kevin)
 - Jeff (fleeding)
@@ -20,7 +21,7 @@
 
 ## Team 5 (Chesskid irl)
 - Mike (HaloHunterrr)
-- Porgy (Cpqx)
+- Porgy (Cqs1m)
 
 
 
