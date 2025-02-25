@@ -1,5 +1,6 @@
 ### Events will be held sporadically, most likely on a separate server, and will gift rewards to the top performers.
 
+## Escape Room
 Escape Room Event:\
 **When:** TBD\
 **Host/Contact:** Terrence\
@@ -9,9 +10,9 @@ Escape Room Event:\
 - 3rd:
 - 4th:
 - 5th:\
-## test
 Play in an escape room to put your minecraft knowledge to the test! Top 5 finishers (in speed) earn prizes!\
 \
+## Towers of Fortune
 Towers of Fortune Event:\
 **When:** TBD\
 **Host/Contact:** Ayaan\
