@@ -1,13 +1,5 @@
-# GAME UPDATES
-Towers of Fortune Event:\
-Play in 3 rounds of towers of fortune where every 15 seconds you recieve an item. Eliminate the other players to win the prize.\
-**Prize:** Have three re-rolls from a random item you get. Choose one of three.
+# SERVER DESCRIPTION
 
-
-## Currently
-Final changes and edits
-## Future
-**_RELEASE DATE:_** today on Thursday, February 13, 2025\
-This will be a grace period (With a small world border and no pvp)\
-**_FULL OPENING DATE:_** in 2 days on Saturday February 15, 2025\
-This will officially begin the server (15k world border) and enable pvp.
+A server for some people to have some fun.
+This server is run in seasons. Each season starts completely new (resets everything) except for some booster items which are awarded from events(read events.md) and deathmatch (Read deathmatch.md). Every 6 days, there will be a Purge day (read Purge day.md). Every 5 purge days, there will be a deathmatch, after which a new season shall begin.
+Each season may bring some new alterations.
