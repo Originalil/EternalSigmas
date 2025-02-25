@@ -9,7 +9,7 @@ Escape Room Event:\
 - 2nd:
 - 3rd:
 - 4th:
-- 5th:\
+- 5th:
 
 Play in an escape room to put your minecraft knowledge to the test! Top 5 finishers (in speed) earn prizes!
 
