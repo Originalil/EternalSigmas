@@ -1,4 +1,4 @@
-Seasons last 30-35 days.\
+Seasons last 30-35 days.
 
 # Season 1 (The OG Season)
 All normal rules apply.\
