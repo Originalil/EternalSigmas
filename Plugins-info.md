@@ -13,7 +13,7 @@ The Book of Experience also allows XP to be used for trading, by dropping one, t
 
  <img width="613" alt="Screenshot 2025-02-14 at 9 38 26 PM" src="https://github.com/user-attachments/assets/a627ecf9-3bc0-417f-bfa3-a0cd02816176" />
 
-# Recipe & Info
+# Craftable XP Bottles
 
 To craft 2 enchanted xp bottles it takes 1 glass bottle and 1 diamond next to each other
 
