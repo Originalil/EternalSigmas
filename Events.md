@@ -10,7 +10,8 @@ Escape Room Event:\
 - 3rd:
 - 4th:
 - 5th:\
-Play in an escape room to put your minecraft knowledge to the test! Top 5 finishers (in speed) earn prizes!\
+
+Play in an escape room to put your minecraft knowledge to the test! Top 5 finishers (in speed) earn prizes!
 
 ## Towers of Fortune
 Towers of Fortune Event:\
