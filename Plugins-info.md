@@ -1,16 +1,22 @@
 # Slimefun 4
 Mod-like plugin that adds many fun and useful items and machines.
 Wiki at [Slimefun V4](https://github.com/Slimefun/Slimefun4/blob/master/README.md)
-# Lunar Events
-More info [here](https://modrinth.com/datapack/lunar-events?version=1.20)
-# Dungeons and Taverns
-More info [here](https://modrinth.com/datapack/dungeons-and-taverns)
+# Xp Storing Book
+You can just open the Book of Experience and store your levels in it by clicking on the text.
+
+The XP is stored in the item and is neither lost nor reduced when dying.
+
+You can put the item in any container. If you, for example, put it into an Ender Chest, it will be easily accessible to you.
+
+The Book of Experience also allows XP to be used for trading, by dropping one, that has experience in it, to another player.
+
+
+ <img width="613" alt="Screenshot 2025-02-14 at 9 38 26 PM" src="https://github.com/user-attachments/assets/a627ecf9-3bc0-417f-bfa3-a0cd02816176" />
 # Incendium
 More info [here](https://modrinth.com/datapack/incendium)
 # Nullscape
 More info [here](https://modrinth.com/datapack/nullscape)
 # Terralith
 More info [here](https://modrinth.com/datapack/terralith)
-
-## And some other small tweaks
+# Notch Apple Craft
 
