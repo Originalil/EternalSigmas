@@ -17,6 +17,11 @@ No abusing unbreakable areas to avoid combat.
 # 5. Eliminations & Winning
 Once you die, you are eliminated from the server.
 
+# 6. Teaming
+If your teammate happens to die, you may able to team with another person that does not have a teammate ONCE and only ONCE 
+no betraying teammates
+
+
 
 ### The last player(s) standing earn rewards based on seasonal rankings (see seasonlog.md).
 
