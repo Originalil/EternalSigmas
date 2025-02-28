@@ -1,4 +1,4 @@
-Deathmatch Rules
+# Deathmatch Rules
 
 # 1. Teams
  You may team with one other player (max team size: 2).
@@ -6,7 +6,7 @@ Deathmatch Rules
 # 2. Joining & Start Time
  Deathmatch begins when there are 7 players online.
 # A 5-minute grace period allows additional players to join before the server is locked.
-#Once the server is locked, no new players can join.
+Once the server is locked, no new players can join.
 # 3. Combat & Engagement
  No excessive running to stall the game. Fight when engaged.
  No combat logging (leaving the server mid-fight).
@@ -18,7 +18,7 @@ No abusing unbreakable areas to avoid combat.
 Once you die, you are eliminated from the server.
 
 
-## The last player(s) standing earn rewards based on seasonal rankings (see seasonlog.md).
+### The last player(s) standing earn rewards based on seasonal rankings (see seasonlog.md).
 
 
 
