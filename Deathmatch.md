@@ -1,6 +1,6 @@
 # Deathmatch Rules
 
-# 1. Teams | Nerfs |
+# 1. Teams | Violation = Nerfs |
  You may team with one other player (max team size: 2).
  If a player is seen teaming with more than one person, severe consequences will apply in the following season.
 # 2. Joining & Start Time
