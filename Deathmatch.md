@@ -9,7 +9,7 @@
 Once the server is locked, no new players can join.
 # 3. Combat & Engagement
  No excessive running to stall the game. Fight when engaged.
- No combat logging AKA using teleport systems mid fight
+ No combat logging OR using teleport systems mid fight
 # 4. Hiding Restrictions
 No skybasing: You cannot hide 50+ blocks above ground level.
 No deep digging: You cannot hide 50+ blocks below ground level.
