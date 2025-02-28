@@ -1,4 +1,4 @@
-Seasons last 30-35 days.
+Seasons last 63 days - 7 purge days - 9 day intervals - 72k world border - Border shrinks by 9k
 
 # Season 1 (The Motor Season)
 All normal rules apply.\
