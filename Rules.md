@@ -57,9 +57,7 @@ Using a given trusted power by the owner for benefitting themselves or teammates
 ### 3j. Corruption | [Judged] |
 If the server owner witnesses another player breaking a rule (e.g., GiftedBasicBee1 is exploiting) and chooses to overlook it, this is considered corruption. If this occurs multiple times, the server owner may be replaced, with the agreement of all parties involved.
 
-
-
-> [Other info] 
+> [!IMPORTANT] 
 > Just because someone decides to do something harmful to you, and you respond by doing the same or something else that breaks the rules, it doesn’t justify the behavior. Two wrongs don’t make a right, and everyone is responsible for their own actions.
 
 
