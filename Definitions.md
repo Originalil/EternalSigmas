@@ -14,7 +14,7 @@
 *Reasonable* - Explainable with logic and evidence.\
 *Significant* - Anything more than 20% of what was in question.\
 *Significant structures* - Any player-built structure that took more than 30 minutes to build and was built in a reasonable amount of time.\
-*Stealing* - Taking any item not created or originally obtained by you.\
+*Stealing* - Taking any item not proclaimed or made by you unless given any verbal or physical gesture to do so .\
 *Subjective* - Anything purely or largely based on personal opinion (i.e. saying "[person name] said that...", "it feels suspicious that..." {or similar terms}, or "I think that...")\
 *Trolling or joking* - Any action that does not do significant damage to players or significant structures.\
 *Unfair advantage* - A condition, not by default available for everyone, that facilitates gameplay for one or a group of players.\
