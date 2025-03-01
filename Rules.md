@@ -25,7 +25,7 @@ Using the farms that other players created
 ## 2. Pvp
 ### 2a. Combat Log | 2d ban | ***(EXEMPT DURING PURGE DAY, HOWEVER APPLICABLE DURING DEATHMATCH)***
 Logging off within 15 seconds of last being struck by a player.
-### 2b. Repeat Combat Log | 3d ban | ***(EXEMPT DURING PURGE DAY, HOWEVER APPLICABLE DURING DEATHMATCH)***
+### 2b. Repeat Combat Log | 3d ban | ***(EXEMPT DURING PURGE DAY)***
 Combat logging repeatedly within 24hrs.
 ### 2c. Spawnkilling | 1d ban |
 Killing players twice or more times at their spawn point, or at the site where their loot first dropped.
@@ -54,3 +54,13 @@ Using clients that have not been approved or approved ones for unintended uses
 ex. replay mod for unintended uses [i.e tracking players]
 ### 3i. Power-Abuse | 3d ban | 
 Using a given trusted power by the owner for benefitting themselves or teammates, or harming other players.
+### 3j. Corruption | [Judged] |
+If the server owner witnesses another player breaking a rule (e.g., GiftedBasicBee1 is exploiting) and chooses to overlook it, this is considered corruption. If this occurs multiple times, the server owner may be replaced, with the agreement of all parties involved.
+
+> [Other info] 
+> Just because someone decides to do something harmful to you, and you respond by doing the same or something else that breaks the rules, it doesn’t justify the behavior. Two wrongs don’t make a right, and everyone is responsible for their own actions.
+
+
+
+
+
