@@ -27,8 +27,11 @@ Using the farms that other players created
 Logging off within 15 seconds of last being struck by a player.
 ### 2b. Repeat Combat Log | 3d ban | ***(EXEMPT DURING PURGE DAY)***
 Combat logging repeatedly within 24hrs.
-### 2c. Spawnkilling | 1d ban |
-Killing players twice or more times at their spawn point, or at the site where their loot first dropped.
+### 2c. First degree Spawnkilling | 1d ban |
+Killing players twice or more times at their spawn point, or relatively close.
+### 3d Second segree Spawnkilling | 12h |
+ Killing repeatedly within a few minutes
+
 ## 3. Integrity
 ### 3a. Alt Account | 7d ban | 
 Having multiple accounts owned by the same person
