@@ -23,10 +23,12 @@ Stealing from the output of any farm you did not create
 ### 1h. Third degree farm grief | 1d ban |
 Using the farms that other players created
 ## 2. Pvp
-### 2a. Combat Log | 2d ban | ***(EXEMPT DURING PURGE DAY, HOWEVER APPLICABLE DURING DEATHMATCH)***
+### 2a. First degree Combat Log | 3d ban | 
 Logging off within 15 seconds of last being struck by a player.
-### 2b. Repeat Combat Log | 3d ban | ***(EXEMPT DURING PURGE DAY)***
+### 2b. Repeat Combat Log | 3d ban | 
 Combat logging repeatedly within 24hrs.
+### 2b2. Teleport Log | 2d ban |
+Teleporting during mid-fight.
 ### 2c. First degree Spawnkilling | 1d ban |
 Killing players twice or more times at their spawn point, or relatively close, unless provoked.
 ### 3d Second segree Spawnkilling | 12h |
