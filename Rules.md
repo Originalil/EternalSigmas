@@ -28,9 +28,11 @@ Logging off within 15 seconds of last being struck by a player.
 ### 2b. Repeat Combat Log | 3d ban | ***(EXEMPT DURING PURGE DAY)***
 Combat logging repeatedly within 24hrs.
 ### 2c. First degree Spawnkilling | 1d ban |
-Killing players twice or more times at their spawn point, or relatively close.
+Killing players twice or more times at their spawn point, or relatively close, unless provoked.
 ### 3d Second segree Spawnkilling | 12h |
- Killing repeatedly within a few minutes
+ Killing repeatedly within a few minutes, unless provoked.
+> [!CAUTION]
+> Provoked, meaing attack, taking loot back (from their gravestone), etc.
 
 ## 3. Integrity
 ### 3a. Alt Account | 7d ban | 
