@@ -10,11 +10,11 @@
 Destroying decorative objects, breaking chests, destroying transportation infrastructure
 ### 1b. Second degree base grief | 1d ban | ***(EXEMPT DURING PURGE DAY)***
 Placing obstructive blocks, digging around or modifying environment
-### 1c. First degree stealing | 36hr ban | ***(EXEMPT DURING PURGE DAY)***
-Stealing any slimefun materials, ores, or their refined forms (e.g. ingots, blocks, nuggets), netherite upgrade templates
-### 1d. Second degree stealing | 15hr ban | ***(EXEMPT DURING PURGE DAY)***
-Stealing non-netherite smithing templates, mob drops, or gear
-### 1e. Third degree stealing (aka Petty Theft) | 5hr ban | ***(EXEMPT DURING PURGE DAY)***
+### 1c. First degree stealing | 3d ban | ***(EXEMPT DURING PURGE DAY)***
+high value/rarity items, a large amount of a rare item and resources
+### 1d. Second degree stealing | 36hr ban | ***(EXEMPT DURING PURGE DAY)***
+Loot from entities, gear, tools, and source of food.
+### 1e. Third degree stealing (aka Petty Theft) | 12hr ban | ***(EXEMPT DURING PURGE DAY)***
 Stealing any other items
 ### 1f. First degree farm grief | 6d ban |
 Destroying or modifying others' farms
