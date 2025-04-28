@@ -1,6 +1,6 @@
 Seasons last 63 days - 7 purge days - 9 day intervals - 72k world border - Border shrinks by 9k
 
-# Season 1 (The OG Season)
+# (The Slimefun Season)
 All normal rules apply.\
 One or two events will happen.
 ### Season 1 rewards:
@@ -9,6 +9,8 @@ One or two events will happen.
 - 3rd: 2 notch apples motors + 128 xp bottles
 - 4th/5th: 8 golden apples + 64 xp bottles
 - Participation: 4 golden apples + 32 xp bottles
-# Season 2 (Lifesteal Season)
+# Lifesteal Season)
 All normal rules apply.\
 Lifesteal mechanic is active.
+# Normal Vanilla Season
+Normal rules apply.\
