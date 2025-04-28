@@ -1,6 +1,5 @@
-Seasons last 63 days - 7 purge days - 9 day intervals - 72k world border - Border shrinks by 9k
 
-# (The Slimefun Season)
+### (The Slimefun Season)
 All normal rules apply.\
 One or two events will happen.
 ### Season 1 rewards:
