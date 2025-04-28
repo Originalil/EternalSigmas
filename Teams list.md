@@ -1,27 +1,16 @@
-## Team 1 (Sea pickle cool kids)
-- Terrence (Cosmology101)
-- Jeremy (GiftedBasicBee1)
-- Jack (Attackjack0406)
-- Richard (Badminton_guy)
+## Team 1 (Nill)
+-Nill
 
 ## Team 2 (Skibidi Ohio Rizzlers)
-- Ayaan (originalil)
-- Michael (CookerLlama)
-- Quinn (detectiveyeti)
-- Liam (Liam_Riley)
-- Emirham (Chadman)
-- Robert (DarkFlameX54)
+-Nill
 
 ## Team 3 (Jeff and Kevin)
-- Jeff (fleeding)
-- Kevin (_Wee)
-
+- Nill
 ## Team 4 (Random)
-- Andrew (Fireball41221)
+- Nill
 
 ## Team 5 (Chesskid irl)
-- Mike (HaloHunterrr)
-- Porgy (Cqs1m)
+- Nill
 
 
 
