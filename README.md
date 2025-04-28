@@ -6,5 +6,5 @@ This server is run in seasons ***(read seasonslog.md)***. Each season starts com
 \
 Each season may bring some new alterations.
 
-IP: EternallySigmas2.aternos.me
+IP: EternalSigmas.aternos.me 
 
